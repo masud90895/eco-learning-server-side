@@ -12,6 +12,105 @@
       "Converting Styling and HTML to JSX",
       "Designing API requests using React.",
       "Also Have Some Many Features"
-    ]
+    ],
+    "level" : "Beginner",
+    "Rating" : 4.7,
+    "Duration" : "6 months",
+    "fee" : 5500
+  },
+  {
+    "id": 2,
+    "project": "Full Stack Web Development with React Specialization",
+    "ditailes": "This course implements a practical approach to instill the learning process in students. It provides a certification upon completion that can further assist the course participants in presenting their professional networks.",
+    "Feature": [
+      "Learning the Front-end framework with Bootstrap",
+      "Initiating and practicing Node.JS and Express.JS",
+      "Learning to use and implement React in the JavaScript library",
+      "Learning and using Redux",
+      "Learning to work with JQuery",
+      "Learning to create and operate with stylesheet language",
+      "Creating and deploying authentication programs",
+      "Learning to implement NoSQL with the use of MongoDB"
+    ],
+    "level" : "Intermediate",
+    "Rating" : 4.7,
+    "Duration" : "4 months",
+    "fee" : 3000
+  },
+  {
+    "id": 3,
+    "project": "Modern JavaScript from the Beginning",
+    "ditailes": "Modern JavaScript from the Beginning is a popular course on Udemy that requires students to have basic knowledge of HTML and CSS. With a relatively low barrier to entry, this course is a great choice for just about everyone looking to learn JavaScript. It starts at the fundamentals and then works its way toward more advanced concepts while not relying on any frameworks or libraries.",
+    "Feature": [
+      "JavaScript fundamentals",
+      "Object-oriented aspects of JavaScript",
+      "AJAX & Fetch API",
+      "Asynchronous JS",
+      "DOM manipulation & events",
+      "Error handling in JavaScript",
+      "Iterators & generators",
+      "JavaScript patterns"
+    ],
+    "level" : "Beginners",
+    "Rating" : 4.7,
+    "Duration" : "5 months",
+    "fee" : 2500
+  },
+  {
+    "id": 4,
+    "project": "Real-world websites with HTML and CSS by Eco Learning",
+    "ditailes": "Eco Learning offers an HTML course wherein you will learn all about web designing, the professional building of websites, creating codes of a huge project, and various others. This course is facilitated by Jonas Schmedtmann, who is a highly experienced and exceptional web developer, designer, and teacher. ",
+    "Feature": [
+      "You will learn to design and code huge projects.",
+      "The professional building of attractive and responsive websites will become possible",
+      "Tested and tried methods of building a professional website from scratch.",
+      "Learn about jQuery effects such as sticky navigation, animations, and scroll effects.",
+      "Receive tutorials to build a strong foundation for being a web developer.",
+      "You have the option to enrol for the entire certificate at any time of the course.",
+      "It offers access to 9 hours of committed demand video tutorials.",
+      "Easy to understand and enjoyable way of teaching is the key features of this program"
+    ],
+    "level" : "Beginners",
+    "Rating" : 4.9,
+    "Duration" : "6 months",
+    "fee" : 9500
+  },
+  {
+    "id": 5,
+    "project": "Tailwind CSS From Scratch | Learn By Building Projects",
+    "ditailes": "This is a fun project-based course to learn how to create awesome layouts using the Tailwind CSS framework and get comfortable using utility classes over something like Bootstrap, which uses component-based classes. Let's take a look at the outline for this course... ",
+    "Feature": [
+      "Build 5 mini-projects and 6 website projects",
+      "Configure your styles to create custom layouts",
+      "Learn to create and edit layouts super fast",
+      "Learn the Tailwind utility classes using a code sandbox",
+      "Learn how to set up a dev environment using the Tailwind CLI",
+      "Learn A Modern Way To Style Websites & Never Go Back To Using Regular CSS",
+      "Learn & Understand How To Use Tailwind Utility Classes To Style Elements",
+      "Learn To Build Interactive Dashboards With Components Like Charts"
+    ],
+    "level" : "Beginners",
+    "Rating" : 4.9,
+    "Duration" : "6 months",
+    "fee" : 7500
+  },
+  {
+    "id": 6,
+    "project": "Wordpress for Beginners - Master Wordpress Quickly",
+    "ditailes": "The primary goal of this course is to teach anyone, even a complete beginner, how to become a Wordpress guru in a few short hours, without lots of technical jargon.  I'll guarantee that after taking this course you'll have the knowledge you need to build a responsive, beautiful website with the latest version of Wordpress. ",
+    "Feature": [
+      "Install Wordpress on your PC or Mac computer, so you can learn without having to pay hosting or domain fees.",
+      "Navigate around the Wordpress dashboard, know what everything does and how to use it.",
+      "Create pages and posts, and most importantly, know the difference between the two",
+      "Correctly use post categories and tags, and understand why these can cause you problems at the search engines if used incorrectly.",
+      "Understand plugins & themes and how to find/install them",
+      "Create a static homepage useful for most websites, or a blog like homepage useful for bloggers.",
+      "This course will teach anyone to build a functional, beautiful, responsive website with Wordpress.",
+      "Create custom menus and navigation systems that both visitors and search engines will find useful."
+    ],
+    "level" : "Beginners",
+    "Rating" : 4.6,
+    "Duration" : "6 months",
+    "fee" : 2500
   }
 ]
