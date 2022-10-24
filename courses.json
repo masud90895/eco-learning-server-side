@@ -2,6 +2,8 @@
   {
     "id": 1,
     "project": "Modern React with Redux",
+    "category" : "Basic React",
+    "image" : "https://i.ytimg.com/vi/8uoMHTc4ZVI/mqdefault.jpg",
     "ditailes": "This best react course is apt for anyone who wishes to learn and program using React. It is a developer program with hooks included. It teaches programming in JavaScript using React and the Redux library. It also teaches the development of applications for app stores and web apps.",
     "Feature": [
       "Basics of React app",
@@ -21,6 +23,8 @@
   {
     "id": 2,
     "project": "Full Stack Web Development with React Specialization",
+    "category" : "Full Stack React",
+    "image" : "https://www.classcentral.com/report/wp-content/uploads/2022/04/BCG-Web-Development-NEW-Banner.png",
     "ditailes": "This course implements a practical approach to instill the learning process in students. It provides a certification upon completion that can further assist the course participants in presenting their professional networks.",
     "Feature": [
       "Learning the Front-end framework with Bootstrap",
@@ -40,6 +44,8 @@
   {
     "id": 3,
     "project": "Modern JavaScript from the Beginning",
+    "category" : "javaScript",
+    "image" : "https://s3.us-east-1.amazonaws.com/storage.trumplearning.com/cmsfiles/modern-javascript-from-the-beginning-aywqub45.jpg",
     "ditailes": "Modern JavaScript from the Beginning is a popular course on Udemy that requires students to have basic knowledge of HTML and CSS. With a relatively low barrier to entry, this course is a great choice for just about everyone looking to learn JavaScript. It starts at the fundamentals and then works its way toward more advanced concepts while not relying on any frameworks or libraries.",
     "Feature": [
       "JavaScript fundamentals",
@@ -59,6 +65,8 @@
   {
     "id": 4,
     "project": "Real-world websites with HTML and CSS by Eco Learning",
+    "category" : "HTML and CSS",
+    "image" : "https://i0.wp.com/felight.io/wp-content/uploads/2020/07/html-css.jpg?fit=624%2C300&ssl=1",
     "ditailes": "Eco Learning offers an HTML course wherein you will learn all about web designing, the professional building of websites, creating codes of a huge project, and various others. This course is facilitated by Jonas Schmedtmann, who is a highly experienced and exceptional web developer, designer, and teacher. ",
     "Feature": [
       "You will learn to design and code huge projects.",
@@ -77,7 +85,9 @@
   },
   {
     "id": 5,
-    "project": "Tailwind CSS From Scratch | Learn By Building Projects",
+    "project": "Tailwind CSS From Eco Learning | Learn By Building Projects",
+    "category" : "Tailwind CSS",
+    "image" : "https://codingthesmartway.com/wp-content/uploads/2020/03/title.png",
     "ditailes": "This is a fun project-based course to learn how to create awesome layouts using the Tailwind CSS framework and get comfortable using utility classes over something like Bootstrap, which uses component-based classes. Let's take a look at the outline for this course... ",
     "Feature": [
       "Build 5 mini-projects and 6 website projects",
@@ -97,6 +107,8 @@
   {
     "id": 6,
     "project": "Wordpress for Beginners - Master Wordpress Quickly",
+    "category" : "Wordpress",
+    "image" : "https://hostpapa.blog/blog/wp-content/uploads/2019/07/wordpress-for-beginners_header.jpg",
     "ditailes": "The primary goal of this course is to teach anyone, even a complete beginner, how to become a Wordpress guru in a few short hours, without lots of technical jargon.  I'll guarantee that after taking this course you'll have the knowledge you need to build a responsive, beautiful website with the latest version of Wordpress. ",
     "Feature": [
       "Install Wordpress on your PC or Mac computer, so you can learn without having to pay hosting or domain fees.",

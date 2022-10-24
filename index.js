@@ -3,16 +3,17 @@ const app = express();
 var cors = require("cors");
 const port = process.env.port || 5000;
 app.use(cors());
-// const places = require("./projects.json");
-
-// app.get("/place/:id", (req, res) => {
-//   const id = req.params.id;
-//   const place = places.find((pl) => pl.id === id);
-//   res.send(place);
-// });
+const courses = require("./courses.json");
 
 app.get("/", (req, res) => {
-  res.send("Hello World!");
+  res.send(courses);
+});
+
+
+app.get("/course/:id", (req, res) => {
+    const id = parseInt(req.params.id);
+    const course= courses.find(cr=> cr.id === id);
+  res.send(course);
 });
 
 app.listen(port, () => {
