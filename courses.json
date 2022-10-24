@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "project": "Modern React with Redux",
+    "ditailes": "This best react course is apt for anyone who wishes to learn and program using React. It is a developer program with hooks included. It teaches programming in JavaScript using React and the Redux library. It also teaches the development of applications for app stores and web apps.",
+    "Feature": [
+      "Basics of React app",
+      "Learning JavaScript module systems",
+      "Understanding the create-react-app project",
+      "How to start and stop a React project",
+      "Creating and displaying functional components",
+      "Converting Styling and HTML to JSX",
+      "Designing API requests using React.",
+      "Also Have Some Many Features"
+    ]
+  }
+]
