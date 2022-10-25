@@ -22,24 +22,24 @@
   },
   {
     "id": 2,
-    "project": "Full Stack Web Development with React Specialization",
-    "category" : "Full Stack React",
-    "image" : "https://www.classcentral.com/report/wp-content/uploads/2022/04/BCG-Web-Development-NEW-Banner.png",
-    "ditailes": "This course implements a practical approach to instill the learning process in students. It provides a certification upon completion that can further assist the course participants in presenting their professional networks.",
+    "project": "Python 3 Tutorial from Eco Learning",
+    "category" : "Python Basic Tutorial",
+    "image" : "https://discoversdkcdn.azureedge.net/postscontent/python/python4.png",
+    "ditailes": "The Python 3 Tutorial from Eco Learning is an excellent option for anyone looking to get started with the latest version, i.e., Python 3, of the Python programming language.The 25-hour paid online Python course doesn’t have any prerequisites, making it a great beginner option. A great Python introduction, this course covers the latest Python 3 fundamentals and concepts through interactive lessons, project work, videos, and multiple-choice quizzes. It is a one-stop shop for learning everything to get started with the Python programming language.",
     "Feature": [
-      "Learning the Front-end framework with Bootstrap",
-      "Initiating and practicing Node.JS and Express.JS",
-      "Learning to use and implement React in the JavaScript library",
-      "Learning and using Redux",
-      "Learning to work with JQuery",
-      "Learning to create and operate with stylesheet language",
-      "Creating and deploying authentication programs",
-      "Learning to implement NoSQL with the use of MongoDB"
+      "File operations using Python",
+      "Functions, function arguments, and control flow",
+      "Looping in Python",
+      "Python modules and code challenges",
+      "Python dictionary structure",
+      "Conditional statements and looping",
+      "Explaining the binary number system",
+      "Introduction to program flow control"
     ],
     "level" : "Intermediate",
-    "Rating" : 4.7,
-    "Duration" : "4 months",
-    "fee" : 3000
+    "Rating" : 4.9,
+    "Duration" : "8 months",
+    "fee" : 11000
   },
   {
     "id": 3,

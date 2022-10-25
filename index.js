@@ -10,7 +10,7 @@ app.get("/", (req, res) => {
 });
 
 
-app.get("/course/:id", (req, res) => {
+app.get("/courses/:id", (req, res) => {
     const id = parseInt(req.params.id);
     const course= courses.find(cr=> cr.id === id);
   res.send(course);
